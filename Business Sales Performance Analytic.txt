@@ -1,0 +1,11 @@
+Business Sales Performance Analytics
+
+Insights:
+- Sales increased from 2014 to 2017
+- Technology category generates highest revenue
+- West region performs best
+
+Recommendations:
+- Focus on high-performing categories
+- Expand in strong regions
+- Improve low-performing areas
